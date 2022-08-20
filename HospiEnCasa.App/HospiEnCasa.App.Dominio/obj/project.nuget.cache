@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iVW95kpXXlyRCmK6MHM3+ciWmfCQOgct6Hzrpvcxce8+ceCM5zpL4tpCWAXOE1m1F5k1AYbhps55X9SzxtzPiw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Donatelo\\Desktop\\donatelo3\\Rpobandogi\\miWeb\\HospiEnCasa.App\\HospiEnCasa.App.Dominio\\HospiEnCasa.App.Dominio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Donatelo\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Donatelo\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
